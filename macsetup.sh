@@ -18,11 +18,11 @@ fi
 
 # Install tools from Brewfile
 
-BREWFILE=$HOME/Brewfile
+BREWFILE=$HOME/.Brewfile
 
 if [ ! -f "$BREWFILE" ]
 then
 	echo Please create $BREWFILE.
 else
-  brew bundle --file=$BREWFILE
+  brew bundle --global
 fi

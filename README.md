@@ -2,10 +2,11 @@
 
 ## Usage
 
-Copy the script macsetup.sh and Brewfile in $Home directory.
+Copy the script macsetup.sh and .Brewfile in $Home directory.
 Run the macsetup.sh script
 
 ```bash
+cd $HOME
 bash macsetup.sh
 ```
 

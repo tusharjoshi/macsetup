@@ -21,6 +21,7 @@ brew "guetzli"
 brew "openssl"
 brew "httrack"
 brew "hub"
+brew "mas"
 brew "maven"
 brew "node"
 brew "p7zip"
@@ -31,6 +32,7 @@ brew "wget"
 brew "youtube-dl"
 
 # opensource apps
+cask "adobe-air" #dependency
 cask "alfred"
 cask "amazon-drive"
 cask "android-file-transfer"
@@ -60,9 +62,13 @@ cask "handbrake"
 cask "handshaker"
 cask "keka"
 cask "lektor"
+cask "netbeans"
 cask "nosleep"
 cask "opera"
 cask "pencil"
+cask "pharo-launcher"
+cask "postman"
+cask "scratch"
 cask "slack"
 cask "sublime-text"
 cask "virtualbox"
@@ -76,4 +82,21 @@ cask "camtasia"
 cask "duet"
 cask "iexplorer"
 cask "intellij-idea"
+cask "kindle"
+cask "little-snitch"
 cask "snagit"
+
+# Mac Appstore apps
+mas "Twitter", id:409789998
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Lynda.com", id: 985958984
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "SHAREit", id: 1040029915
+mas "TweetDeck", id: 485812721
+mas "Twitter", id: 409789998
+mas "UlyssesMac", id: 1225570693
+mas "WhatsApp", id: 1147396723
+mas "Xcode", id: 497799835
