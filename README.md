@@ -10,5 +10,5 @@ cd $HOME
 bash macsetup.sh
 ```
 
-## Brewfile
+## .Brewfile
 This file contains the tools which I use frequently

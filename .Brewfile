@@ -87,7 +87,6 @@ cask "little-snitch"
 cask "snagit"
 
 # Mac Appstore apps
-mas "Twitter", id:409789998
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
