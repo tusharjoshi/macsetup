@@ -1,9 +1,9 @@
-# macOs setup using Homebrew
+# macOS setup using Homebrew
 
 ## Usage
 
-Copy the script macsetup.sh and .Brewfile in $Home directory.
-Run the macsetup.sh script
+Copy the script `macsetup.sh` and `.Brewfile` in `$Home` directory.
+Run the `macsetup.sh` script using following commands...
 
 ```bash
 cd $HOME
